@@ -2,7 +2,7 @@
 
 Small template for any new micro:bit V2 projects I may have in the future
 
-Taken from incredible (Discovery book)[https://docs.rust-embedded.org/discovery/microbit/index.html] and slightly changed to only work on micro:bit V2
+Taken from incredible [Discovery book](https://docs.rust-embedded.org/discovery/microbit/index.html) and slightly changed to only work on micro:bit V2 (so only required libraries are mentioned in Cargo & Embeded toml files)
 
 
 ## How to use
